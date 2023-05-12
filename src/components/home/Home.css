@@ -1,0 +1,52 @@
+.poster{
+    color: #fff;
+}
+.posterImage{
+    height: 80vh;
+    position: relative;
+    
+   
+}
+.posterOverlay{
+    position: absolute;
+    bottom: 100px;
+    left: 100px;
+    width: 700px;
+    text-align: left;
+}
+.posterImage_title h2{
+    font-size: 4.5rem;
+    font-weight: 700;
+}
+.posterImage_runtime{
+    display: flex;
+
+    
+}
+.posterImage_runtime h6{
+    font-size: 1.4rem;
+    font-weight: 300;
+    padding-bottom: 10px;
+    margin-right: 30px;
+    
+}
+.posterImage_rating{
+    
+    font-size: 1.4rem;
+    font-weight: 300;
+    padding-bottom: 10px;
+}
+
+
+
+.posterImageDescription h6{
+    padding-top: 20px;
+    font-size: 14px;
+    font-weight:300;
+    max-width: 600px;
+}
+
+
+
+
+
